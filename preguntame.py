@@ -1,0 +1,6 @@
+nombre=input('Cual es tu nombre: ')
+print(f'Saludos {nombre}')
+entero=input('Dame un numero entero: ')
+print(f'Saludos {entero} ')
+decimal=input('Dame un numero decimal: ')
+print(f'Saludos {decimal}')
